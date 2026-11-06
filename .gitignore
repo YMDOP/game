@@ -1,0 +1,5 @@
+# 构建缓存 / 临时产物
+评审/04_plan/_tmp/
+node_modules/
+*.log
+.DS_Store
